@@ -1,4 +1,5 @@
 # Daily Inspiration - Quote App
+![Google Pixel 4 XL Presentation](https://github.com/Firdavs-coder/quote/assets/84655445/6895da9e-c4a0-4bf1-a7e8-04a9231fd5f7)
 
 Welcome to the Daily Inspiration Quote App! This app is designed to provide you with a daily dose of motivation, wisdom, and positivity. Here's a brief overview of its key features:
 
